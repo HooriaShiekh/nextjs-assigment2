@@ -1,0 +1,19 @@
+.header{
+    background-color: rgb(169, 202, 181);
+}
+.nav{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding :1rem 2rem;
+    background-color:black;
+    color:white
+
+}
+.header{
+    background-color: rgb(155, 80, 136);
+    padding: 100px;
+    text-align: center;
+    font-size: larger;
+    color:aliceblue
+}
